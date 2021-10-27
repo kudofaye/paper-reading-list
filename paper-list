@@ -1,8 +1,35 @@
+# SOCC 2021
+George: Learning to Place Long-Lived Containers in Large Clusters with Operation Constraints
+Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines
+Lorien: Efficient Deep Learning Workloads Delivery
+Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications
+Cloud-Scale Runtime Verification of Serverless Applications
+CHRONUS: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs
+ServerMore: Opportunistic Execution of Serverless Functions in the Cloud
+Atoll: A Scalable Low-Latency Serverless Platform
+Speedo: Fast dispatch and orchestration of serverless workflows
+Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices
+Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving
+Elastic Hyperparameter Tuning on the Cloud
+Kraken : Adaptive Container Provisioning for Deploying Dynamic DAG applications in Serverless platforms
+Scrooge: A Cost-Effective Deep Learning Inference System
+Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds
+SHOWAR: Right-Sizing And Efficient Scheduling of Microservices
+Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis (Xiyue)
+Provisioning Differentiated Last-Level Cache Allocations to VMs in Public Clouds
+Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud
+Enabling Sustainable Clouds: The Case for Virtualizing the Energy System
+Tell me when you are sleepy and what may wake you up!
+Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds
+Latency-Aware Dynamic Server and Cooling Capacity Provisioner for Data Centers
+
 # SOSP 2021/OSDI 2021
 Boki: Stateful Serverless Computing with Shared Logs
 Faster and Cheaper Serverless Computing on Harvested Resources
 Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning
 Gradient Compression Supercharged High-Performance Data Parallel DNN Training
+Gillis：Serving Large Neural Networks in Serverless Functions with Automatic Model Partitioning (ICDCS 2021)
+Understanding, predicting and scheduling serverless workloads under partial interference (SC 2021)
 
 RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation
 Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP
