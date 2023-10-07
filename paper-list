@@ -45,6 +45,9 @@ Paella: Low-latency Model Serving with Software-defined GPU Scheduling (Aodong)
 Sia: Heterogeneity-aware, goodput-optimized ML-cluster scheduling (Qiannan)
 XFaaS: Hyperscale and Low Cost Serverless Functions at Meta (Jiabin)
 
+A Cloud-Scale Characterization of Remote Procedure Calls (All)
+Pushing Performance Isolation Boundaries into Application with pBox (All)
+
 # OSDI 2023
 Cilantro: A Framework for Performance-Aware Resource Allocation for General Objectives via Online Feedback (Zhuoyan)
 Karma: Resource Allocation for Dynamic Demands (Shuohao)
