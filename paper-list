@@ -1,18 +1,16 @@
 # SOCC 2023
 Plexus: Optimizing Join Approximation for Geo-Distributed Data Analytics (All)
 Carbon Containers: A System-level Facility for Managing Application-level Carbon Emissions (Shuohao) *
-Lifting the Fog of Uncertainties: Dynamic Resource Orchestration for the Containerized Cloud (Shuohao)
+Lifting the Fog of Uncertainties: Dynamic Resource Orchestration for the Containerized Cloud (Shuohao) *
 Golgi: Performance-Aware, Resource-Efficient Function Scheduling for Serverless Computing (Jiabin) *
 Maximizing VMs' IO Performance on Overcommitted CPUs with Fairness (All) *
 Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture (Zhuoyan) *
 OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation (All) *
-Parrotfish: Parametric Regression for Optimizing Serverless Functions (Jiabin)
-A Comparison of End-to-End Decision Forest Inference Pipelines (Aodong)
+Parrotfish: Parametric Regression for Optimizing Serverless Functions (Jiabin) *
 Enabling Multi-tenancy on SSDs with Accurate IO Interference Modeling (All) *
 Maximizing the Utilization of GPUs Used by Cloud Gaming through Adaptive Co-location with Combo (All)
-AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions (Jiabin)
+AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions (Jiabin) *
 Anticipatory Resource Allocation for ML Training Clusters (Xinyi) *
-Yama: Providing Performance Isolation for Black-Box Offloads (All)
 Chitu: Accelerating Serverless Workflows with Asynchronous State Replication Pipeline (Jiabin) *
 Towards GPU Memory Efficiency for Distributed Training at Scale (All) *
 Gödel: Unified Large-Scale Resource Management and Scheduling at ByteDance (All) *
@@ -20,7 +18,6 @@ Disaggregating ML Input Data Processing at Scale (All) *
 How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads (Jiabin) *
 
 The Gap Between Serverless Research and Real-world Systems (Jiabin) *
-Function as a Function (Jiabin)
 Is Machine Learning Necessary for Cloud Resource Usage Forecasting? (All) *
 Sustainable supercomputing for AI: Experiences from GPU Power Capping at HPC Scale (All)
 
