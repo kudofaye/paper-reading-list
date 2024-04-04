@@ -1,40 +1,36 @@
 # Eurosys 2024
 Accordion: Memory-Efficient DNN Training Using Adaptive Local Learning (Xinyi)
 GMorph: Accelerating Multi-DNN Inference via Model Fusion (Aodong)
-Towards Efficient Page Profiling and Migration on Multi-Tiered Large Memory Systems (Shuohao)
 On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud
 ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling (Xinyi)
-Erlang: Application-Level Autoscaling for Cloud Microservices (Shuohao)
+Erlang: Application-Level Autoscaling for Cloud Microservices * (Shuohao)
 Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures (Zhuoyan)
 SysX: An Optimizing System for ML Inference in Zero-Knowledge Proofs (Zhuoyan)
 Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation (Xinyi)
 Model Selection for Latency-Critical Inference Serving
 Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation (Xuange)
-Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications (Aodong)
-HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis (Qiannan)
+Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications * (Aodong)
+HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis * (Qiannan)
 Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance
-DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines (Qiannan)
-Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices (Shuohao)
+DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines * (Qiannan)
+Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices * (Shuohao)
 
 # NSDI 2024
 Can't Be Late: Optimizing Spot Instance Savings under Deadlines
-HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis
 Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining
 Autothrottle: A Practical Bi-Level Approach to Resource Management for SLO-Targeted Microservices
 Jolteon: Unleashing the Promise of Serverless for Serverless Workflows
-Characterization of Large Language Model Development in the Datacenter (All)
+Characterization of Large Language Model Development in the Datacenter * (All)
 QuickUpdate: a Real-Time Personalization System for Large-Scale Recommendation Models
-Scaling Large Language Model Training to More Than 10,000 GPUs (All)
+Scaling Large Language Model Training to More Than 10,000 GPUs * (All)
 Resiliency at Scale: Managing Google’s TPUv4 Machine Learning Supercomputer (All)
-LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds
-Accelerating Neural Recommendation Training with Embedding Scheduling
+Accelerating Neural Recommendation Training with Embedding Scheduling *
 DISTMM: Accelerating Distributed Multi-modal Model Training
-THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression
-CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters
+THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression *
+CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters *
 Towards Domain-Specific Network Transport for Distributed DNN Training
 Hardware-assisted RDMA Performance Isolation for Public Clouds
 UFO: The Ultimate QoS-Aware Core Management for Virtualized and Oversubscribed Public Clouds
-LDB: An Efficient Latency Profiling Tool for Multithreaded Applications
 
 # SOCC 2023
 Plexus: Optimizing Join Approximation for Geo-Distributed Data Analytics (All)
