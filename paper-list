@@ -5,7 +5,7 @@ On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the
 ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling (Xinyi)
 Erlang: Application-Level Autoscaling for Cloud Microservices * (Shuohao)
 Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures (Zhuoyan)
-SysX: An Optimizing System for ML Inference in Zero-Knowledge Proofs (Zhuoyan)
+SysX: An Optimizing System for ML Inference in Zero-Knowledge Proofs * (Zhuoyan)
 Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation (Xinyi)
 Model Selection for Latency-Critical Inference Serving
 Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation (Xuange)
