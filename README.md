@@ -3,7 +3,7 @@ Reading paper list for iCloud-ECNU Group
 
 # research directions:
 ## Performance-centric Cloud Interface (Predictable Performance with Cost-Efficient Resource Provisioning for Cloud Users)
-Batching multi-SLO DNN inference with heterogeneous serverless functions (Jiabin)  
+HarmonyBatch: Batching multi-SLO DNN inference with heterogeneous serverless functions (Jiabin)  
 spotDNN: Spot instance provisioning for predictable distributed DNN training (Ruitao-June 2023, IWQoS2023)  
 LambdaDNN: Serverless function provisioning for predictable distributed DNN training (Yiling-June 2021, TC2022)  
 Cynthia: VM instance provisioning for predictable distributed DNN training (Haoyue-June 2020, ICPP 2019 & TPDS2019)  
@@ -18,7 +18,7 @@ Nebula & Prophet: Communication scheduling optmization for distributed machine l
 DelayStage: Tasks scheduling for performance optimization of DAG-style data analytics (Wujie-June 2020, ICPP2019)
 
 ## Interference-aware Cluster Resource Management (Container Scheduling and GPU Resource Management)
-User-unaware live migration of containers with memory dirty page prediction (Shuohao)  
+U^2CMig: User-unaware live migration of containers with memory dirty page prediction (Shuohao)  
 Tetris: Scheduling long-running containerized workloads for load balancing in shared clusters (Xiyue-June 2023)
 iGniter: Interference-aware GPU resource provisioning for predictable DNN inference (Jianian-June 2022, TPDS2023)  
 
