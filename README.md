@@ -19,7 +19,7 @@ DelayStage: Tasks scheduling for performance optimization of DAG-style data anal
 
 ## Interference-aware Cluster Resource Management (Container Scheduling and GPU Resource Management)
 U<sup>2</sup>CMig: User-unaware live migration of containers with memory dirty page prediction (Shuohao)  
-Tetris: Scheduling long-running containerized workloads for load balancing in shared clusters (Xiyue-June 2023) 
+Tetris: Scheduling long-running containerized workloads for load balancing in shared clusters (Xiyue-June 2023)  
 iGniter: Interference-aware GPU resource provisioning for predictable DNN inference (Jianian-June 2022, TPDS2023)  
 
 ## Collaborative Cloud-Edge-Client Computing
