@@ -1,8 +1,7 @@
 # Eurosys 2024
-Accordion: Memory-Efficient DNN Training Using Adaptive Local Learning (Xinyi)
+NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning (Xinyi)
 GMorph: Accelerating Multi-DNN Inference via Model Fusion (Aodong)
 On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud
-ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling (Xinyi)
 Erlang: Application-Level Autoscaling for Cloud Microservices * (Shuohao)
 Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures (Zhuoyan)
 Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation (Xinyi)
