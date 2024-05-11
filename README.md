@@ -11,14 +11,14 @@ iSpot: Spot instance provisioning for predictable big data analytics (Huan-June 
 
 ## MLSys (Co-optimization of DL Job Scheduling and Cluster Resource Allocation)
 Performance optimization of LLM inference on multi-engine systems (Zhuoyan)  
-Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi)  
 Predictable performance of LLM training in heterogeneous clusters (Qiannan)  
+Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi)  
 Opara: Speeding up DNN inference with inter-operator parallelism (Aodong-June 2024, CCFSys'23 & TC'24)  
 Nebula & Prophet: Communication scheduling optmization for distributed machine learning (Qiang-June 2021, ICPP'21 & THPC'21)  
 DelayStage: Tasks scheduling for performance optimization of DAG-style data analytics (Wujie-June 2020, ICPP'19)
 
 ## Interference-aware Cluster Resource Management (Container Scheduling and GPU Resource Management)
-U<sup>2</sup>CMig: User-unaware live migration of containers with memory dirty page prediction (Shuohao-June 2024)  
+U<sup>2</sup>CMigration: User-unaware live migration of containers with memory dirty page prediction (Shuohao-June 2024)  
 Tetris: Scheduling long-running containerized workloads for load balancing in shared clusters (Xiyue-June 2023)  
 iGniter: Interference-aware GPU resource provisioning for predictable DNN inference (Jianian-June 2022, TPDS'23)  
 
