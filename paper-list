@@ -1,6 +1,19 @@
 # ATC 2024
+Harmonizing Efficiency and Practicability: Optimizing Resource Utilization in Serverless Computing with Jiagu
+Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention
+Starburst: A Cost-aware Scheduler for Hybrid Cloud
+Power-aware Deep Learning Model Serving with μ-Serve
+Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
+Accelerating the Training of Large Language Models using Efficient Activation Rematerialization and Optimal Hybrid Parallelism
 
 # OSDI 2024
+nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training
+When will my ML Job finish? Toward providing Completion Time Estimates through Predictability-Centric Scheduling
+Optimizing Resource Allocation in Hyperscale Datacenters: Scalability, Usability, and Experiences
+MAST: Global Scheduling of ML Training across Geo-Distributed Datacenters at Hyperscale
+dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving
+Parrot: Efficient Serving of LLM-based Applications with Semantic Variable
+Fairness in Serving Large Language Models
 
 # Eurosys 2024
 NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning (Xinyi)
