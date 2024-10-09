@@ -19,7 +19,7 @@ Fairness in Serving Large Language Models
 NeuroFlux: Memory-Efficient CNN Training Using Adaptive Local Learning (Xinyi)
 GMorph: Accelerating Multi-DNN Inference via Model Fusion (Aodong)
 On the Limitations of Carbon-Aware Temporal and Spatial Workload Shifting in the Cloud
-Erlang: Application-Level Autoscaling for Cloud Microservices * (Shuohao)
+Erlang: Application-Level Autoscaling for Cloud Microservices * ()
 Just-In-Time Checkpointing: Low Cost Error Recovery from Deep Learning Training Failures (Zhuoyan)
 Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation (Xinyi)
 Model Selection for Latency-Critical Inference Serving
@@ -28,7 +28,7 @@ Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications * (Aodon
 HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis * (Qiannan)
 Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance
 DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines * (Qiannan)
-Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices * (Shuohao)
+Atlas: Hybrid Cloud Migration Advisor for Interactive Microservices * ()
 
 # NSDI 2024
 Can't Be Late: Optimizing Spot Instance Savings under Deadlines * (Zhuoyan)
@@ -48,8 +48,8 @@ UFO: The Ultimate QoS-Aware Core Management for Virtualized and Oversubscribed P
 
 # SOCC 2023
 Plexus: Optimizing Join Approximation for Geo-Distributed Data Analytics (All)
-Carbon Containers: A System-level Facility for Managing Application-level Carbon Emissions (Shuohao) *
-Lifting the Fog of Uncertainties: Dynamic Resource Orchestration for the Containerized Cloud (Shuohao) *
+Carbon Containers: A System-level Facility for Managing Application-level Carbon Emissions () *
+Lifting the Fog of Uncertainties: Dynamic Resource Orchestration for the Containerized Cloud () *
 Golgi: Performance-Aware, Resource-Efficient Function Scheduling for Serverless Computing (Jiabin) *
 Maximizing VMs' IO Performance on Overcommitted CPUs with Fairness (All) *
 Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture (Zhuoyan) *
@@ -73,7 +73,7 @@ Interference-aware Multiplexing for Deep Learning in GPU Clusters: A Middleware 
 Rethinking Deployment for Serverless Functions: A Performance-First Perspective (SC2023) *
 
 # ATC 2023
-On-demand Container Loading in AWS Lambda (Shuohao)
+On-demand Container Loading in AWS Lambda ()
 AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems (Jiabin)
 Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective (All)
 EnvPipe: Performance-preserving DNN Training Framework for Saving Energy (Qiannan)
@@ -98,7 +98,7 @@ Pushing Performance Isolation Boundaries into Application with pBox (All)
 
 # OSDI 2023
 Cilantro: A Framework for Performance-Aware Resource Allocation for General Objectives via Online Feedback (Zhuoyan)
-Karma: Resource Allocation for Dynamic Demands (Shuohao)
+Karma: Resource Allocation for Dynamic Demands ()
 Hyrax: Fail-in-Place Operation in Cloud Platforms (All)
 ExoFlow: A Universal Workflow System for Exactly-Once DAGs (All)
 AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving (Jiabin)
@@ -123,9 +123,9 @@ Accelerating Attention through Gradient-Based Learned Runtime Pruning
 Hyperscale FPGA-As-A-Service Architecture for Large-Scale Distributed Graph Neural Network
 
 # NSDI 2023
-*Transparent GPU Sharing in Container Clouds for Deep Learning Workloads (Shuohao)
+*Transparent GPU Sharing in Container Clouds for Deep Learning Workloads ()
 Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training (Qiannan)
-Unlocking unallocated cloud capacity for long, uninterruptible workloads (Shuohao)
+Unlocking unallocated cloud capacity for long, uninterruptible workloads ()
 Shockwave: Fair and Efficient Cluster Scheduling for Dynamic Adaptation in Machine Learning (Xinyi)
 Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs (Ruitao)
 Better Together: Jointly Optimizing ML Collective Scheduling and Execution Planning using SYNDICATE (Xinyi)
@@ -138,7 +138,7 @@ Skyplane: Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays (*)
 Doing More with Less: Orchestrating Serverless Applications without an Orchestrator (Jiabin)
 
 # Eurosys 2023
-*OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers (Shuohao)
+*OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers ()
 *SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters (Xinyi)
 Groundhog: Efficient Request Isolation in FaaS (Jiabin)
 Hi-Speed DNN Training with Espresso: Unleashing the Full Potential of Gradient Compression with Near-Optimal Usage Strategies (Jiabin)
@@ -148,7 +148,7 @@ With Great Freedom Comes Great Opportunity: Rethinking Resource Allocation for S
 # ASPLOS 2023
 AQUATOPE: QoS-and-Uncertainty-Aware Resource Management for Multi-stage Serverless Workflows (Jiabin)
 ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning (Jiabin)
-Erms: Efficient Resource Management for Shared Microservices with SLA Guarantees (Shuohao)
+Erms: Efficient Resource Management for Shared Microservices with SLA Guarantees ()
 Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models
 Lucid: A Non-intrusive, Scalable and Interpretable Scheduler for Deep Learning Training Jobs (Xinyi)
 
@@ -163,11 +163,11 @@ A Seer Knows Best: Optimized Object Storage Shuffling for Serverless Analytics
 # SOCC 2022
 Building Heterogeneous Cloud System for Machine Learning Inference (Qiannan)
 Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud (Jiabin)
-Workload Consolidation in Alibaba Clusters：The Good, the Bad, and the Ugly (Xinyi, Shuohao)
+Workload Consolidation in Alibaba Clusters：The Good, the Bad, and the Ugly (Xinyi, )
 
 Scalable Input Data Processing for Resource-Efficient Machine Learning (keynote)
 Arax: A Runtime Framework for Decoupling Applications from Heterogeneous Accelerators
-DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems (Jiabin & Shuohao)
+DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems (Jiabin & )
 Demeter: QoS-Aware CPU Scheduling to Reduce Power Consumption of Multiple Black-Box Workloads
 ESCHER: Expressive Scheduling with Ephemeral Resources (Ruitao)
 How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service
@@ -180,15 +180,15 @@ The Power of Prediction: Microservice Auto Scaling via Workload Learning (Jiabin
 Characterizing and Orchestrating VM Reservation in Geo-distributed Clouds to Improve the Resource Efficiency
 Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism
 
-GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning (Shuohao)
-Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference (Shuohao)
+GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning ()
+Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference ()
 CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances (Ruitao)
 
 
 # SIGCOMM 2022
 Multi-resource interleaving for deep learning training (Xinyi)
 Mobile access bandwidth in practice: measurement, analysis, and implications
-From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud (Shuohao)
+From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud ()
 Congestion-aware Critical Gradient Scheduling for Distributed Machine Learning in Data Center Networks (IEEE TCC)
 
 # ATC 2022
