@@ -18,7 +18,7 @@ Nebula & Prophet: Communication scheduling optmization for distributed machine l
 DelayStage: Tasks scheduling for performance optimization of DAG-style data analytics (Wujie-June 2020, ICPP'19)
 
 ## Interference-aware Cluster Resource Management (Container Scheduling and GPU Resource Management)
-U<sup>2</sup>CMigration: User-unaware live migration of containers with memory dirty page prediction (Shuohao-June 2024)  
+U<sup>2</sup>CMigration: User-unaware live migration of containers with memory dirty page prediction (JCST'24)  
 Tetris: Scheduling long-running containerized workloads for load balancing in shared clusters (Xiyue-June 2023, TSC'24)  
 iGniter: Interference-aware GPU resource provisioning for predictable DNN inference (Jianian-June 2022, TPDS'23)  
 
