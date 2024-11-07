@@ -1,3 +1,12 @@
+# SOSP 2024
+Enabling Parallelism Hot Switching for Efficient Training of Large Language Models
+LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism
+PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU
+ReCycle: Pipeline Adaptation for the Resilient Distributed Training of Large DNNs
+Reducing Energy Bloat in Large Model Training
+Tenplex: Dynamic Parallelism for Deep Learning using Parallelizable Tensor Collections
+Unifying serverless and microservice workloads with SigmaOS
+
 # ATC 2024
 Harmonizing Efficiency and Practicability: Optimizing Resource Utilization in Serverless Computing with Jiagu
 Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention
