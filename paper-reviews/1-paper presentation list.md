@@ -10,5 +10,5 @@ We plan to present one paper for each group disccusion. Please add the presentat
 4) 10.22, dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving （OSDI'24), Lingxuan Weng
 5) 10.29, StreamBox: A Lightweight GPU SandBox for Serverless Inference Workflow (ATC'24), Yikun Gu
 6) 10.29, DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines (Eurosys'24), Qiannan Zhou
-7) 11.6, ModelKeeper：Accelerating DNN Training via Automated Training Warmup (NSDI'23), XiangShen
+7) 11.6, ModelKeeper: Accelerating DNN Training via Automated Training Warmup (NSDI'23), XiangShen
 8) 11.6, Starburst: A Cost-aware Scheduler for Hybrid Cloud(ATC'24), Zongqing Wei
