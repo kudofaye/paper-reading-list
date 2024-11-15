@@ -12,3 +12,4 @@ We plan to present one paper for each group disccusion. Please add the presentat
 6) 10.29, DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines (Eurosys'24), Qiannan Zhou
 7) 11.6, ModelKeeper: Accelerating DNN Training via Automated Training Warmup (NSDI'23), XiangShen
 8) 11.6, Starburst: A Cost-aware Scheduler for Hybrid Cloud(ATC'24), Zongqing Wei
+9) 11.12, Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading (SOCC'24), Yikun Gu
