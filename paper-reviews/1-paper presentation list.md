@@ -14,4 +14,4 @@ We plan to present one paper for each group disccusion. Please add the presentat
 8) 11.6, Starburst: A Cost-aware Scheduler for Hybrid Cloud(ATC'24), Zongqing Wei
 9) 11.12, Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading (SOCC'24), Yikun Gu
 10) 11.12, mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs (under revision in VLDB’25), Lingxuan Weng
-11) 11.19, USHER：Holistic Interference Avoidance for Resource Optimized ML Inference, Xiang Shen
+11) 11.19, USHER：Holistic Interference Avoidance for Resource Optimized ML Inference (OSDI'24), Xiang Shen
