@@ -12,3 +12,9 @@ We plan to present one paper for each group disccusion. Please add the presentat
 6) 10.29, DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines (Eurosys'24), Qiannan Zhou
 7) 11.6, ModelKeeper: Accelerating DNN Training via Automated Training Warmup (NSDI'23), XiangShen
 8) 11.6, Starburst: A Cost-aware Scheduler for Hybrid Cloud(ATC'24), Zongqing Wei
+9) 11.12, Pre-Warming is Not Enough: Accelerating Serverless Inference With Opportunistic Pre-Loading (SOCC'24), Yikun Gu
+10) 11.12, mLoRA: Fine-Tuning LoRA Adapters via Highly-Efficient Pipeline Parallelism in Multiple GPUs (under revision in VLDB’25), Lingxuan Weng
+11) 11.19, USHER：Holistic Interference Avoidance for Resource Optimized ML Inference (OSDI'24), Xiang Shen
+12) 11.19, Managing Bandwidth: The Key to Cloud-Assisted Autonomous Driving (arXiv'24), Zongqing Wei
+13) 11.26, SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing (SC'24), Yikun Gu
+
