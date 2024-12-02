@@ -17,4 +17,5 @@ We plan to present one paper for each group disccusion. Please add the presentat
 11) 11.19, USHER：Holistic Interference Avoidance for Resource Optimized ML Inference (OSDI'24), Xiang Shen
 12) 11.19, Managing Bandwidth: The Key to Cloud-Assisted Autonomous Driving (arXiv'24), Zongqing Wei
 13) 11.26, SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing (SC'24), Yikun Gu
+14) 11.26, Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks(ICPP'24), Lingxuan Weng
 
