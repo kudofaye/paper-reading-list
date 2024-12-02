@@ -21,6 +21,10 @@ The Sunk Carbon Fallacy: Rethinking Carbon Footprint Metrics for Effective Carbo
 The Hidden Carbon Footprint of Serverless Computing
 Exploring the Efficiency of Renewable Energy-based Modular Data Centers at Scale
 
+Cannikin: Optimal Adaptive Distributed DNN Training over Heterogeneous Clusters (Middleware'24)
+Dexter: A Performance-Cost Efficient Resource Allocation Manager for Serverless Data Analytics (Middleware'24)
+Towards SLO-Compliant and Cost-Effective Serverless Computing on Emerging GPU Architectures (Middleware'24)
+
 # SOSP 2024
 Enabling Parallelism Hot Switching for Efficient Training of Large Language Models
 LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism
