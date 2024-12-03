@@ -18,4 +18,5 @@ We plan to present one paper for each group disccusion. Please add the presentat
 12) 11.19, Managing Bandwidth: The Key to Cloud-Assisted Autonomous Driving (arXiv'24), Zongqing Wei
 13) 11.26, SMIless: Serving DAG-based Inference with Dynamic Invocations under Serverless Computing (SC'24), Yikun Gu
 14) 11.26, Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks(ICPP'24), Lingxuan Weng
+15) 12.3, Optimus ：Warming Serverless ML Inference via Inter-Function Model Transformation(Eurosys'24), Xiang Shen
 
