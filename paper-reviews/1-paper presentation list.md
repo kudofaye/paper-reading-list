@@ -20,5 +20,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 14) 11.26, Online Scheduling and Pricing for Multi-LoRA Fine-Tuning Tasks(ICPP'24), Lingxuan Weng
 15) 12.3, AutoBurst: Autoscaling Burstable Instances for Cost-effective Latency SLOs(SOCC'24), Zongqing wei
 16) 12.3, Optimus ：Warming Serverless ML Inference via Inter-Function Model Transformation(Eurosys'24), Xiang Shen
+17) 12.10, Jolteon: Unleashing the Promise of Serverless for Serverless Workflows(NSDI'24), Yikun Gu
 
 
