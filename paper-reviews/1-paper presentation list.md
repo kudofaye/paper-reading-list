@@ -22,6 +22,7 @@ We plan to present one paper for each group disccusion. Please add the presentat
 16) 12.3, Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation(Eurosys'24), Xiang Shen
 17) 12.10, Jolteon: Unleashing the Promise of Serverless for Serverless Workflows(NSDI'24), Yikun Gu
 18) 12.10, Kale: Elastic GPU Scheduling for Online DL Model Training(SOCC'24), Lingxuan Weng
-19) 12.17, Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning(MobiCom'24), Zongqing Wei 
+19) 12.17, Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning(MobiCom'24), Zongqing Wei
+20) 12.17, Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training(SOCC'24), Xiang Shen
 
 
