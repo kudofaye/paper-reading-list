@@ -25,5 +25,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 19) 12.17, Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning(MobiCom'24), Zongqing Wei
 20) 12.17, Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training(SOCC'24), Xiang Shen
 21) 12.24, DistServe: Disaggregating Prefill and Decoding for Goodput-optimized  Large Language Model Serving(OSDI'24), Lingxuan Weng
+22) 12.24, PISeL Pipelining DNN Inference for Serverless Computing(CIKM'24), Yikun Gu
 
 
