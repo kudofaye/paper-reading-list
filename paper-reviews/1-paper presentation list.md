@@ -26,5 +26,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 20) 12.17, Near-Lossless Gradient Compression for Data-Parallel Distributed DNN Training(SOCC'24), Xiang Shen
 21) 12.24, DistServe: Disaggregating Prefill and Decoding for Goodput-optimized  Large Language Model Serving(OSDI'24), Lingxuan Weng
 22) 12.24, PISeL Pipelining DNN Inference for Serverless Computing(CIKM'24), Yikun Gu
+23) 12.31, FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices(MobiCom'24), Zongqing Wei
 
 
