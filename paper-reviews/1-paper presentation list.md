@@ -27,5 +27,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 21) 12.24, DistServe: Disaggregating Prefill and Decoding for Goodput-optimized  Large Language Model Serving(OSDI'24), Lingxuan Weng
 22) 12.24, PISeL Pipelining DNN Inference for Serverless Computing(CIKM'24), Yikun Gu
 23) 12.31, FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices(MobiCom'24), Zongqing Wei
+24) 1.7, PowerInfer Fast Large Language Model Serving with a Consumer-grade GPUTraining(SOSP'24), Xiang Shen
 
 
