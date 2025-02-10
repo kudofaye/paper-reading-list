@@ -1,3 +1,18 @@
+# ASPLOS 2025
+Coach: Exploiting Temporal Patterns for All-Resource Oversubscription in Cloud Platforms
+Cooperative Graceful Degradation in Containerized Clouds
+Concerto: Automatic Communication Optimization and Scheduling for Large-Scale Deep Learning
+Design and Operation of Shared Machine Learning Clusters on Campus
+Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity
+Helix: Serving Large Language Models over Heterogeneous GPUs and Network via Max-Flow
+Frugal: Efficient and Economic Embedding Model Training with Commodity GPUs
+Forecasting GPU Performance for Deep Learning Training and Inference
+Medusa: Accelerating Serverless LLM Inference with Materialization
+Nazar: Monitoring and Adapting ML Models on Mobile Devices
+PCcheck: Persistent Concurrent Checkpointing for ML
+Tally: Non-Intrusive Performance Isolation for Concurrent Deep Learning Workloads
+PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption
+
 # SOCC 2024
 Hops: Fine-grained heterogeneous sensing, efficient and fair Deep Learning cluster scheduling system
 Queue Management for SLO-Oriented Large Language Model Serving
