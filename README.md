@@ -12,7 +12,7 @@ iSpot: Spot instance provisioning for predictable big data analytics (Huan-June 
 ## MLSys (Co-optimization of DL Job Scheduling and Cluster Resource Allocation)
 Arbitrate the tradeoff between performance and fairness for multi-tenant LLM serving (Zhuoyan)  
 Espresso: Predictable performance of LLM training in heterogeneous clusters (Qiannan-June 2025, Infocom'25)  
-Rubick: Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi-June 2025, Chinasys'24 & TPDS'25)  
+Rubick: Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi-June 2025, MLSys'25 & TPDS'25 & Chinasys'24)  
 Opara: Speeding up DNN inference with inter-operator parallelism (Aodong-June 2024, CCFSys'23 & TC'24)  
 Nebula & Prophet: Communication scheduling optmization for distributed machine learning (Qiang-June 2021, ICPP'21 & THPC'21)  
 DelayStage: Tasks scheduling for performance optimization of DAG-style data analytics (Wujie-June 2020, ICPP'19)
