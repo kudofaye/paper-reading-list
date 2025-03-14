@@ -1,3 +1,32 @@
+# Eurosys 2025
+Flex: Fast, Accurate DNN Inference on Low-Cost Edges Using Heterogeneous Accelerator Execution
+Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing
+A House United Within Itself: SLO-Awareness for On-Premises Containerized ML Inference Clusters via Faro
+Fast State Restoration in LLM Serving with HCache
+FlowCheck: Decoupling Checkpointing and Training of Large-Scale Models
+Stateful Large Language Model Serving with Pensieve
+Serverless Cold Starts and Where to Find Them
+Multiplexing Dynamic Deep Learning Workloads with SLO-awareness in GPU Clusters
+HybridFlow: A Flexible and Efficient RLHF Framework
+JABAS: Joint Adaptive Batching and Automatic Scaling for DNN Training on Heterogeneous GPUs
+Optimizing Task Scheduling in Cloud VMs with Accurate vCPU Abstraction
+SpotHedge: Serving AI Models on Spot Instances
+Mist: Efficient Distributed Training of Large Language Models via Memory-Parallelism Co-Optimization
+MEPipe: Democratizing LLM Training with Memory-Efficient Slice-Level Pipeline Scheduling on Cost-Effective Accelerators
+Towards VM Rescheduling Optimization Through Deep Reinforcement Learning
+SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs
+Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline
+
+# NSDI 2025
+Optimizing RLHF Training for Large Language Models with Stage Fusion
+Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
+SimAI: Unifying Architecture Design and Performance Tunning for Large-Scale Large Language Model Training with Scalability and Precision
+AutoCCL: Automated Collective Communication Tuning for Accelerating Distributed and Parallel DNN Training
+SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads
+GPU-Disaggregated Serving for Deep Learning Recommendation Models at Scale
+Evolution of Aegis: Fault Diagnosis for AI Model Training Cloud Service in Production
+GREEN: Carbon-efficient Resource Scheduling for Machine Learning Clusters
+
 # ASPLOS 2025
 Coach: Exploiting Temporal Patterns for All-Resource Oversubscription in Cloud Platforms
 Cooperative Graceful Degradation in Containerized Clouds
