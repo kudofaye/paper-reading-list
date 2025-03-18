@@ -17,6 +17,26 @@ Towards VM Rescheduling Optimization Through Deep Reinforcement Learning
 SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs
 Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline
 
+# Mobisys'24 & Mobicom'24 (Edge intelligence)
+CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution
+Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization
+ARISE: High-Capacity AR Offloading Inference Serving via Proactive Scheduling
+Pantheon: Preemptible Multi-DNN Inference on Mobile Edge GPUs
+CACTUS: Dynamically Switchable Context-aware micro-Classifiers for Efficient IoT Inference
+LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks
+
+Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices
+FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices
+Delta: A Cloud-assisted Data Enrichment Framework for On-Device Continual Learning
+MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation
+AutoDroid: LLM-powered Task Automation in Android
+LATTE: Layer Algorithm-aware Training Time Estimation for Heterogeneous Federated Learning
+ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues
+
+Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving
+Experiences of Deploying a Citywide Crowdsourcing Platform to Search for Missing People with Dementia
+
+
 # NSDI 2025
 Optimizing RLHF Training for Large Language Models with Stage Fusion
 Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
