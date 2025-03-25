@@ -31,6 +31,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 25) 1.14, CARASERVE: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference(arXiv'24), Lingxuan Weng
 26) 2.18, Power-aware Deep Learning Model Serving with μ-Serve(ATC'24), Xiang Shen
 27) 3.11, Queue Management for SLO-Oriented Large Language Model Serving(SOCC'24), Xiang Shen
-28) 3.18, Forecasting GPU Performance for Deep Learning  Training and Inference,Lingxuan Weng
+28) 3.18, Forecasting GPU Performance for Deep Learning  Training and Inference(ASPLOS'25), Lingxuan Weng
 
 
