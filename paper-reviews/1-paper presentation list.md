@@ -32,5 +32,6 @@ We plan to present one paper for each group disccusion. Please add the presentat
 26) 2.18, Power-aware Deep Learning Model Serving with μ-Serve(ATC'24), Xiang Shen
 27) 3.11, Queue Management for SLO-Oriented Large Language Model Serving(SOCC'24), Xiang Shen
 28) 3.18, Forecasting GPU Performance for Deep Learning  Training and Inference(ASPLOS'25), Lingxuan Weng
+29) 4.1, SuperServe Fine-Grained Inference Serving for Unpredictable Workloads(NSDI'25), Xiang Shen
 
 
