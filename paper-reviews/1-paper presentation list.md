@@ -29,5 +29,9 @@ We plan to present one paper for each group disccusion. Please add the presentat
 23) 12.31, FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices(MobiCom'24), Zongqing Wei
 24) 1.7, PowerInfer Fast Large Language Model Serving with a Consumer-grade GPUTraining(SOSP'24), Xiang Shen
 25) 1.14, CARASERVE: CPU-Assisted and Rank-Aware LoRA Serving for Generative LLM Inference(arXiv'24), Lingxuan Weng
+26) 2.18, Power-aware Deep Learning Model Serving with μ-Serve(ATC'24), Xiang Shen
+27) 3.11, Queue Management for SLO-Oriented Large Language Model Serving(SOCC'24), Xiang Shen
+28) 3.18, Forecasting GPU Performance for Deep Learning  Training and Inference(ASPLOS'25), Lingxuan Weng
+29) 4.1, SuperServe Fine-Grained Inference Serving for Unpredictable Workloads(NSDI'25), Xiang Shen
 
 
