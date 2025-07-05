@@ -1,3 +1,23 @@
+# ATC 2025
+Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation
+FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs
+GPREEMPT: GPU Preemptive Scheduling Made General and Efficient
+KVCache Cache in the Wild: Characterizing and Optimizing KVCache Cache at a Large Cloud Provider
+GeneralSparse: Bridging the Gap in SpMM for Pruned Large Language Model Inference on GPUs
+Obscura: Concealing Recomputation Overhead in Training of Large Language Models with Bubble-filling Pipeline Transformation
+PPipe: Efficient Video Analytics Serving on Heterogeneous GPU Clusters via Pool-Based Pipeline Parallelism
+CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training
+On-Demand Container Partitioning for Distributed ML
+Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelism
+Resource Multiplexing in Tuning and Serving Large Language Models
+Colocating ML Inference and Training with Fast GPU Memory Handover
+
+CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge
+Weaver: Efficient Multi-LLM Serving with Attention Offloading
+Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference
+Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference
+
+
 # Eurosys 2025
 Flex: Fast, Accurate DNN Inference on Low-Cost Edges Using Heterogeneous Accelerator Execution
 Improving GPU Sharing Performance through Adaptive Bubbleless Spatial-Temporal Sharing
