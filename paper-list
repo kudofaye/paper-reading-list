@@ -1,3 +1,16 @@
+# OSDI 2025
+KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads
+BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching
+Neutrino: Fine-grained GPU Kernel Profiling via Programmable Probing
+Quantum Virtual Machines
+QOS: Quantum Operating System
+Understanding Stragglers in Large Model Training Using What-if Analysis
+Fork in the Road: Reflections and Optimizations for Cold Start Latency in Production Serverless Systems
+Kamino: Efficient VM Allocation at Scale with Latency-Driven Cache-Aware Scheduling
+NanoFlow: Towards Optimal Large Language Model Serving Throughput
+PipeThreader: Software-Defined Pipelining for Efficient DNN Execution
+WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
+
 # ATC 2025
 Optimus: Accelerating Large-Scale Multi-Modal LLM Training by Bubble Exploitation
 FlexPipe: Maximizing Training Efficiency for Transformer-based Models with Variable-Length Inputs
@@ -16,7 +29,6 @@ CLONE: Customizing LLMs for Efficient Latency-Aware Inference at the Edge
 Weaver: Efficient Multi-LLM Serving with Attention Offloading
 Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference
 Toppings: CPU-Assisted, Rank-Aware Adapter Serving for LLM Inference
-
 
 # Eurosys 2025
 Flex: Fast, Accurate DNN Inference on Low-Cost Edges Using Heterogeneous Accelerator Execution
@@ -37,7 +49,6 @@ Towards VM Rescheduling Optimization Through Deep Reinforcement Learning
 SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs
 Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline
 
-
 # Mobisys'24 & Mobicom'24 (Edge intelligence)
 CoActo: CoActive Neural Network Inference Offloading with Fine-grained and Concurrent Execution
 Empowering In-Browser Deep Learning Inference on Edge Through Just-In-Time Kernel Optimization
@@ -56,7 +67,6 @@ ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity I
 
 Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving
 Experiences of Deploying a Citywide Crowdsourcing Platform to Search for Missing People with Dementia
-
 
 # NSDI 2025
 Optimizing RLHF Training for Large Language Models with Stage Fusion
