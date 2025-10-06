@@ -1,3 +1,7 @@
+# SOSP 2025
+Characterizing Mobile SoC for Accelerating Heterogeneous LLM Inference
+DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction
+
 # OSDI 2025
 KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads
 BlitzScale: Fast and Live Large Model Autoscaling with O(1) Host Caching
