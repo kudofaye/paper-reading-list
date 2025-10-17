@@ -2,6 +2,17 @@
 Characterizing Mobile SoC for Accelerating Heterogeneous LLM Inference
 DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction
 DCP: Addressing Input Dynamism In Long-Context Training via Dynamic Context Parallelism
+LithOS: An Operating System for Efficient Machine Learning on GPUs
+Device-Assisted Live Migration of RDMA Devices
+Robust LLM Training Infrastructure at ByteDance
+Sailor: Automating Distributed Training over Dynamic, Heterogeneous, and Geo-distributed Clusters
+IC-Cache: Efficient Large Language Model Serving via In-context Caching
+PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications
+Jenga: Effective Memory Management for Serving LLM with Heterogeneity
+Moirai: Optimizing Placement of Data and Compute in Hybrid Clouds
+KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models
+Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market
+
 
 # OSDI 2025
 KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads
