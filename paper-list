@@ -1,3 +1,22 @@
+# SOCC 2025
+Balancing Fairness and Performance in Multi-User Spark Workloads with Dynamic Scheduling
+From Bottleneck to Breakthrough: Optimizing Scheduling for Hyperscale Containerized Clusters
+Metis: A Non-Clairvoyant, Workflow-Aware OS Scheduler for Serverless Applications
+Scheduling Cloud VMs on Variable Capacity Datacenters
+GridGreen: Integrating Serverless Computing in HPC Systems for Performance and Sustainability
+AdaSpec: Adaptive Speculative Decoding for Fast, SLO-Aware Large Language Model Serving
+Oneiros: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving
+Cauchy: A Cost-Efficient LLM Serving System through Adaptive Heterogeneous Deployment
+Multiplexed Heterogeneous LLM Serving via Stage-Aligned Parallelism
+Spatio-Temporal Resource Control for Cloud-Native GPU Provisioning
+SneakPeek: Data-Aware Model Selection and Scheduling for Inference Serving on the Edge
+Cuckoo: Deadline-Aware Job Packing on Heterogeneous GPUs for DL Model Training
+PowerTrip: Exploiting Federated Heterogeneous Datacenter Power for Distributed ML Training
+WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location
+Hybrid Learning and Optimization-Based Dynamic Scheduling for DL Workloads on Heterogeneous GPU Clusters
+A Bootstrapping Technique for Reducing the Costs of Machine Learning Models for Predicting Execution Times in IaaS Clouds
+
+
 # SOSP 2025
 Characterizing Mobile SoC for Accelerating Heterogeneous LLM Inference
 DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction
