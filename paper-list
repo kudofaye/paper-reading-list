@@ -1,3 +1,12 @@
+# NSDI 2026
+FastServe: Iteration-Level Preemptive Scheduling for Large Language Model Inference
+SYMI: Efficient Mixture-of-Experts Training via Model and Optimizer State Decoupling
+Di-PS: System-Algorithm Co-Design for Asynchronous and Heterogeneous Cross-Cluster LLM Training at Scale
+HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds
+Attack of the Bubbles: Straggler-Resilient Pipeline Parallelism for Large Model Training
+SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading
+Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale
+
 # SOCC 2025
 Balancing Fairness and Performance in Multi-User Spark Workloads with Dynamic Scheduling
 From Bottleneck to Breakthrough: Optimizing Scheduling for Hyperscale Containerized Clusters
