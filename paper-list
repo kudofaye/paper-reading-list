@@ -6,6 +6,13 @@ HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public C
 Attack of the Bubbles: Straggler-Resilient Pipeline Parallelism for Large Model Training
 SwiftEP: Accelerating MoE Inference with Buffer Fusion and TMA Offloading
 Flare: Anomaly Diagnostics for Divergent LLM Training in GPU Clusters of Thousand-Plus Scale
+EROICA: Online Performance Troubleshooting for Large-scale Model Training in Production
+FluidRL: Harvesting Preemptible Cloud Resources for Cost-Efficient Reinforcement Learning on LLMs
+FlexLLM: Token-Level Co-Serving of LLM Inference and Finetuning with SLO Guarantees
+MuxTune: Efficient Multi-Task LLM Fine-Tuning in Multi-Tenant Datacenters via Spatial-Temporal Backbone Multiplexing
+Harvesting Spare CPU Resources in Container Systems
+## ISCA 2026
+Characterizing Cloud-Native LLM Inference at Bytedance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators
 
 # SOCC 2025
 Balancing Fairness and Performance in Multi-User Spark Workloads with Dynamic Scheduling
