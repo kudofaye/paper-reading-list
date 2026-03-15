@@ -14,6 +14,13 @@ Harvesting Spare CPU Resources in Container Systems
 ## HPCA 2026
 Characterizing Cloud-Native LLM Inference at Bytedance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators
 
+# ASPLOS 2026
+DIP: Efficient Large Multimodal Model Training with Dynamic Interleaved Pipeline
+Towards High-Goodput LLM Serving with Prefill-decode Multiplexing
+An AI Stack: From Scaling AI Workloads to Evaluating LLMs （keynote）
+BlendServe: Optimizing Offline Inference with Resource-Aware Batching
+gShare: Efficient GPU Sharing with Aggressive Scheduling in Multi-tenant FaaS platform
+
 
 # SOCC 2025
 Balancing Fairness and Performance in Multi-User Spark Workloads with Dynamic Scheduling
