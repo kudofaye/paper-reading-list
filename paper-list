@@ -1,3 +1,36 @@
+# Eurosys 2026
+AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
+FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
+Taming Latency-Memory Trade-Off in MoE-Based LLM Serving via Fine-Grained Expert Offloading (Zongqing)
+Handling Network Faults in Distributed AI Training: Failover is Now an Option
+MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production
+Federated Fine-Tuning of Sparsely-Activated Large Language Models on Resource-Constrained Devices
+LoRAFusion: Efficient LoRA Fine-Tuning for LLMs
+Untangling GPU Power Consumption: Job-Level Inference in Cloud Shared Settings
+STAlloc: Enhancing Memory Efficiency in Large-Scale Model Training with Spatio-Temporal Planning
+Efficient Data Passing for Serverless Inference Workflows: A GPU-Centric Approach
+AdaGen: Workload-Adaptive Cluster Scheduler for Latency-Optimal LLM Inference Serving
+TailorLLM: Collaborative End-Cloud Inference of Large and Small Language Models Based on Low-Rank Adaptation
+KUNSERVE: Parameter-centric Memory Management for Efficient Memory Overloading Handling in LLM Serving
+SkyWalker: A Locality-Aware Cross-Region Load Balancer for LLM Inference
+MFS: An Efficient Model Family Serving System for LLMs
+Maya: Optimizing Deep Learning Training Workloads using GPU Runtime Emulation
+Zeppelin: Balancing Variable-length Workloads in Data Parallel Large Model Training
+Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling
+MinatoLoader: Accelerating Machine Learning Training Through Efficient Data Preprocessing
+In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies
+PiLLM: Resource-Efficient LLM Inference Using Workload Prediction
+High Throughput and Low Latency LLM Serving via Adaptive KV Caching
+Arena: Efficiently Training Large Models via Dynamic Scheduling and Adaptive Parallelism Co-Design
+Bridging the GPU Utilization Gap: Predictive Multi-Dimensional Resource Scheduling for AI Workloads
+MegaScale-Omni: A Hyper-Scale, Workload-Resilient System for MultiModal LLM Training in Production
+HetAuto: Cross-Cluster Auto-Parallelism for Heterogeneous Distributed Training
+HARP: Orchestrating Automated Parallel Training on Heterogeneous GPU Clusters
+Crimson: Collaborative Parameter Updates for Efficient Pipeline Training of Large Language Models
+Everything You Need to Know About Virtual Machine Live Migration Between Heterogeneous Processors
+Suika: Efficient and High-quality Re-scheduling of 3D-parallelized LLM Training Jobs in Shared Clusters
+
+
 # NSDI 2026
 FastServe: Iteration-Level Preemptive Scheduling for Large Language Model Inference
 SYMI: Efficient Mixture-of-Experts Training via Model and Optimizer State Decoupling
