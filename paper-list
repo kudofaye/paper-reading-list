@@ -1,3 +1,7 @@
+# OSDI 2026
+Stop Pretending to be Busy: A Case for Serverless Paradigms in Co-located Batch Workloads
+Teaching The Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-training
+
 # Eurosys 2026
 AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
 FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
