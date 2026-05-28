@@ -10,9 +10,10 @@ Cynthia: VM instance provisioning for predictable distributed DNN training (Haoy
 iSpot: Spot instance provisioning for predictable big data analytics (Huan-June 2019, ISPA'17)  
 
 ## MLSys (Co-optimization of DL Job Scheduling and Cluster Resource Allocation)
-Arbitrate the tradeoff between performance and fairness for multi-tenant LLM serving (Zhuoyan)  
+Cappuccino: Orchestrating multi-LoRA fine-tuning jobs with workload-aware GPU allocator and hetero-LoRA pipeline scheduler (Lingxuan-June 2027, ICDCS'26)
+FairCache: Guaranteeing comprehensive resource fairness in multi-tenant LLM serving with context caching (Zhuoyan-June 2026)  
 Espresso: Predictable performance of LLM training in heterogeneous clusters (Qiannan-June 2025, Infocom'25)  
-Rubick: Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi-June 2025, MLSys'25 & TPDS'25 & Chinasys'24)  
+Rubick: Reconfigurable job scheduling in multi-tenant deep learning clusters (Xinyi-June 2025, MLSys'25 & Chinasys'24)  
 Opara: Speeding up DNN inference with inter-operator parallelism (Aodong-June 2024, CCFSys'23 & TC'25)  
 Nebula & Prophet: Communication scheduling optimization for distributed machine learning (Qiang-June 2021, ICPP'21 & THPC'21)  
 DelayStage: Tasks scheduling for performance optimization of DAG-style data analytics (Wujie-June 2020, ICPP'19)
