@@ -1,6 +1,27 @@
 # OSDI 2026
 Stop Pretending to be Busy: A Case for Serverless Paradigms in Co-located Batch Workloads
 Teaching The Old Dog New Tricks: Building Efficient Data Pipelines for Large-Scale LLM Pre-training
+Strata: Hierarchical Context Caching for Long Context Language Model Serving
+ECHO: Efficient KV Cache Offloading with Lossless Prefetching for Serving Native Sparse Attention LLMs
+No Buffer, No Bottleneck: Efficient Zero-Copy KV Cache Offloading for Long-Context LLMs
+Simple Is Better: Multiplication May Be All You Need for LLM Request Scheduling
+Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning
+Tessera: A Holistic Pipeline Parallelism Framework for Trillion-Parameter Heterogeneous MoE Training
+Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms
+ECO: An AI-Driven Code Efficiency Optimizer for Warehouse Scale Computers
+StriaTrace: Efficient Tracing and Diagnosis for Online LLM Inference
+Diagnosing Performance Issues in Application-Defined Resources
+DynaRL: Flexible and Dynamic Scheduling of Large-Scale Reinforcement Learning Training
+Achieving Cloud-Grade SLOs for Local Mixture-of-Experts Inference through CPU–GPU Hybrid Design
+BatchGen: An Architecture for Scalable and Efficient Batch Inference
+Kareus: Joint Reduction of Dynamic and Static Energy in Large Model Training
+Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources
+Efficient LLM Serving on Commodity GPU Clusters with Data-Reduced Cross-Instance Orchestration
+Revisiting Pipeline Parallelism for LLM Serving
+OpenTela: Unifying Decentralized Computing Resources for Heterogeneous LLM Serving
+Kairox: Adaptive GPU-CPU Hybrid LLM Inference via Online Neuron Balancing
+Distributed Speculative Execution for Resilient Cloud Applications
+M3U: Scalable Kernel Memory Management for Efficient Post-Copy Live Migration of High-End Virtual Machines
 
 # Eurosys 2026
 AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
