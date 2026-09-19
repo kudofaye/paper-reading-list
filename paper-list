@@ -23,6 +23,8 @@ Kairox: Adaptive GPU-CPU Hybrid LLM Inference via Online Neuron Balancing
 Distributed Speculative Execution for Resilient Cloud Applications
 M3U: Scalable Kernel Memory Management for Efficient Post-Copy Live Migration of High-End Virtual Machines
 
+Heterogeneous SLO Guaranteed Multi-Resource-Aware Batching in LLM Serving (ICPP'26)
+
 # Eurosys 2026
 AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding
 FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters
